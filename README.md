@@ -1,6 +1,7 @@
 ##  Basic work with files
 
 - Create directory test1
+gfgrgrtg
 
 ```console
 mkdir test
